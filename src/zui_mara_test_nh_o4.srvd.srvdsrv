@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_MARA_TEST_NH'
+define service ZUI_MARA_TEST_NH_O4 {
+  expose ZC_MARA_TEST_NH as Material;
+}
